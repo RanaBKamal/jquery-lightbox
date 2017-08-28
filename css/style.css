@@ -1,0 +1,14 @@
+.main-container{
+	background:lightgray;
+}
+.image-in-display{
+	width: 100%;
+	height: auto;
+}
+.image-indisplay-thumbnails-container{
+	width: 100%;
+}
+.image-indisplay-thumbnails{
+	cursor: pointer;
+	margin: 5px;
+}
